@@ -1,5 +1,7 @@
 - Ho tolto il rumore dall'immagine iniziale
-- Ho caricato l'immagine in scala di grigi
+- Ho caricato l'immagine
+- Ho tolto il rumore
+- Ho tradotto in scala di grigi
 - Ho diviso l'immagine in header (primo terzo), footer (ultimo quinto), body (la parte di mezzo restante)
 - Ho parsato l'header per prendere nome, ragione_sociale, indirizzo, citta, info1, info2
 - Ho parsato il body per prendere i prodotti e il totale
