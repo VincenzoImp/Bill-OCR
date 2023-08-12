@@ -1,0 +1,58 @@
+{
+    "nome": "Ristorante XYZ",
+    "ragione_sociale": "Ragione sociale XYZ",
+    "indirizzo": "Piazza Vittorio Veneto, 10",
+    "citta": "26020 - Corte de\u2019 Cortesi (CR",
+    "info1": "Te] , 0123456789 = info@ristorantexyz.it",
+    "info2": "P, Iva: 0123456789",
+    "totale": 69.0,
+    "prodotti": [
+        [
+            "Menu Carta",
+            "Menu Carta",
+            4.0
+        ],
+        [
+            "Gnocchi rosa",
+            "Gnocchi roSa",
+            10.0
+        ],
+        [
+            "Ravioli Caste|magno",
+            "Raviol1 Castelmaono",
+            12.0
+        ],
+        [
+            "Secondo Piatto",
+            "Secondo Platto",
+            10.0
+        ],
+        [
+            "Stinco",
+            "Stinco",
+            12.0
+        ],
+        [
+            "Crema di zabaione",
+            "Cre-a 01 zabaicne",
+            5.0
+        ],
+        [
+            "bicchiere abbinato",
+            "bicchiere abbinato",
+            4.0
+        ],
+        [
+            "Vino rosso",
+            "Vino rosso",
+            10.0
+        ],
+        [
+            "Caffe\u2019 al tavolo",
+            "Caffe al tavolo",
+            2.0
+        ]
+    ],
+    "date": "06/02/16",
+    "time": "13:45"
+}
